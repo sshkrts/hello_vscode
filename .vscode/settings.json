@@ -1,0 +1,15 @@
+    {
+    "editor.insertSpaces": false,
+    "editor.mouseWheelZoom": true,
+    "workbench.editor.closeEmptyGroups": true,
+    "editor.formatOnType": true,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "autoprefix": "last 5 versions",
+            "extensionName": ".css",
+            "savePath": "css"
+        }
+    ],
+}
